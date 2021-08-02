@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CeBoostUpButISAGCTF-1/static/css/main.390bd592.chunk.css",
+    "main.js": "/CeBoostUpButISAGCTF-1/static/js/main.354a27c3.chunk.js",
+    "runtime-main.js": "/CeBoostUpButISAGCTF-1/static/js/runtime-main.7ade6d90.js",
+    "static/js/2.4b061631.chunk.js": "/CeBoostUpButISAGCTF-1/static/js/2.4b061631.chunk.js",
+    "static/js/3.087c1a4e.chunk.js": "/CeBoostUpButISAGCTF-1/static/js/3.087c1a4e.chunk.js",
+    "index.html": "/CeBoostUpButISAGCTF-1/index.html",
+    "static/js/2.4b061631.chunk.js.LICENSE.txt": "/CeBoostUpButISAGCTF-1/static/js/2.4b061631.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ade6d90.js",
+    "static/js/2.4b061631.chunk.js",
+    "static/css/main.390bd592.chunk.css",
+    "static/js/main.354a27c3.chunk.js"
+  ]
+}
